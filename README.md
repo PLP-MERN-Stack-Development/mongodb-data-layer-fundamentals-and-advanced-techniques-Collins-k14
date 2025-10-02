@@ -36,6 +36,7 @@ Run this command in the project directory:
 npm install mongodb
 
 📂 Project Structure
+
 plp_bookstore/
 
 │── insert_books.js   # Script to populate the database with sample books
