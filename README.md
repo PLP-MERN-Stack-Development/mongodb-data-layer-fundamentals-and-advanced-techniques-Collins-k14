@@ -37,6 +37,7 @@ npm install mongodb
 
 📂 Project Structure
 plp_bookstore/
+
 │── insert_books.js   # Script to populate the database with sample books
 
 │── queries.js           # (Your big script with queries, aggregation & indexes)
